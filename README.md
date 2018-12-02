@@ -1,7 +1,13 @@
 
-<img src="https://github.com/johnobc11/projectTARAfrontend/blob/master/images/Screenshot_20180404-213730.png" height="500"> <img src="https://github.com/johnobc11/projectTARAfrontend/blob/master/images/Screenshot_20180501-153725.png" height="500"> src="https://github.com/johnobc11/projectTARAfrontend/blob/master/images/Screenshot_20180526-172221.png" height="500"> 
-src="https://github.com/johnobc11/projectTARAfrontend/blob/master/images/Screenshot_20180501-161606.png" height="500">
-src="https://github.com/johnobc11/projectTARAfrontend/blob/master/images/Screenshot_20180429-215341.png" height="500">
+<img src="https://github.com/johnobc11/projectTARAfrontend/blob/master/images/Screenshot_20180404-213730.png" height="500">
+
+<img src="https://github.com/johnobc11/projectTARAfrontend/blob/master/images/Screenshot_20180501-153725.png" height="500">
+
+<img src="https://github.com/johnobc11/projectTARAfrontend/blob/master/images/Screenshot_20180526-172221.png" height="500"> 
+
+<img src="https://github.com/johnobc11/projectTARAfrontend/blob/master/images/Screenshot_20180501-161606.png" height="500">
+
+<img src="https://github.com/johnobc11/projectTARAfrontend/blob/master/images/Screenshot_20180429-215341.png" height="500">
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
